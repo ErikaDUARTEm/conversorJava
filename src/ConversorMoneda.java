@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class ConversorMoneda {
-    private static final Set<String> SUPPORTED_CURRENCIES = new HashSet<>(Set.of("ARS", "BOB", "BRL", "CLP", "COP", "USD"));
+    private static final Set<String> SUPPORTED_CURRENCIES = new HashSet<>(Set.of("ARS", "BRL", "CLP", "COP", "USD"));
     private ConsultarMoneda consultarMoneda;
 
     public ConversorMoneda() {

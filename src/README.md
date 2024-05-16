@@ -1,5 +1,5 @@
 <em> # Conversor de Monedas </em>
-![img.png](img.png)
+![img_1.png](img_1.png)
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ## Descripción del proyecto
 Este conversor esta desarrollado con Java 21, el cual, podrás 
